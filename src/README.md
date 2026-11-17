@@ -36,19 +36,15 @@ $$
 
 ### 1. Python (Линейная)
 <img width="786" height="150" alt="image" src="https://github.com/user-attachments/assets/874d9a4a-7e22-4b98-ab14-5c7d007db4b4" />
-*Время: 2.1987 сек.*
 
 ### 2. Python (Параллельная, 4 процесса)
 <img width="780" height="168" alt="image" src="https://github.com/user-attachments/assets/522cc623-417e-4743-82c3-6379339582fc" />
-*Время: 0.8119 сек.*
 
 ### 3. Java (Линейная)
 <img width="1012" height="254" alt="image" src="https://github.com/user-attachments/assets/09e3db81-4a25-4526-8a3a-52482dcd613c" />
-*Время: 0.3830 сек.*
 
 ### 4. Java (Параллельная, 4 потока)
 <img width="1014" height="299" alt="image" src="https://github.com/user-attachments/assets/16ebd943-cf6d-4db2-9a51-f111800a38c8" />
-*Время: 0.1219 сек.*
 
 ---
 
